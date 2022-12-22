@@ -38,7 +38,8 @@
 <b>Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
 
 <p align="center" >
-  | <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldomml&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
+  <!-- <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldomml&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Reinaldomml's github stats" /></a> -->
+  <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
 </p>
 
 <br />
