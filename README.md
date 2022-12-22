@@ -83,7 +83,7 @@
 </p>
 <p align="center">Made with ❤️ in The Netherlands</p>
 
-<h2 align='center' style="vertical-align:top; margin:1rem;font-size: 2.4rem;">⚡️ Stay foolish! ⚡️</h2>
+<h1 align='center' style="vertical-align:top; margin:1rem;">⚡️ Stay foolish! ⚡️</h1>
 
 <div align="center">
 <img src="./img/steve-quote.jpg"alt="Steve Jobs Quote" style="vertical-align:top; margin-bottom:1rem"/>
