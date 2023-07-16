@@ -62,6 +62,8 @@
   <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=reinaldomml)](https://git.io/streak-stats)
+
 <!-- <h2 align="center"> 🚀 Main Repositories</h2>
 
 <p align="center">
