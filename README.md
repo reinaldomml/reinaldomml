@@ -37,11 +37,6 @@
 
 <b>Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
 
-<p align="center" >
-  <!-- <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldomml&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Reinaldomml's github stats" /></a> -->
-  <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
-</p>
-
 <br />
 
 <h2 align="center"> ⚙️ Languages and Tools</h2>
@@ -62,7 +57,12 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" style="vertical-align:top; margin:4px">
 </p>
 
-<h2 align="center"> 🚀 Main Repositories</h2>
+<p align="center" >
+  <!-- <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldomml&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Reinaldomml's github stats" /></a> -->
+  <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
+</p>
+
+<!-- <h2 align="center"> 🚀 Main Repositories</h2>
 
 <p align="center">
 <a href="https://github.com/reinaldomml/roomfi">
@@ -71,7 +71,7 @@
 <a href="https://github.com/reinaldomml/my-scrap-test-puppeteer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldomml&repo=my-scrap-test-puppeteer&theme=graywhite" />
 </a>
-</p>
+</p> -->
 
 <br>
 
