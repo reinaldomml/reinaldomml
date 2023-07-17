@@ -27,17 +27,15 @@
 
 </p>
 
--   🌱 Learning Javascript + Express + Node, Tailwind CSS, PostgreSQL, Puppeteer.
+-   🌱 Learning now - PostgreSQL + React | ⚙️ My Stack = PERN
 
--   ✏️ I write a Blog in https://medium.com/@reinaldomml
-
--   I love Solopreneurship, Star Wars, E-Sports.
+-   I love Indie Maker Culture, Star Wars, E-Sports.
 
 -   I believe that technology is like magic 💫
 
-<b>Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
+<b>Carrer Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
 
-<b>🚀 Latest Project:</b> Roomfi at https://roomfi.me - an integrated data aggregation tool designed to assist students in The Netherlands navigate the rental market. It amalgamates data from three leading rental websites through Puppeteer/Crawlee and consolidates the results on a single page. Additionally, it categorizes rooms and dispatches the information to corresponding WhatsApp groups. This NodeJS, Express, and Whatsapp-web.js, with a frontend designed using Tailwind CSS, is hosted on Digital Ocean Ubuntu Server with PM2 and Nginx. Your visit and feedback are highly appreciated!
+<b>🚀 Latest Project:</b> Roomfi at https://roomfi.me - designed to assist students in the Netherlands in navigating the rental market. It collects data from 3 leading rental websites using Puppeteer/Crawlee. Additionally, it categorizes rooms and sends the information to respective WhatsApp groups. Built with Node.js, Express, and Whatsapp-web.js, with a frontend designed using Tailwind CSS, it is hosted on a Digital Ocean Ubuntu Server with PM2 and Nginx. Your visit and feedback are greatly appreciated!
 
 ![](./img/roomfi-cover-readme.png)
 
