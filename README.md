@@ -37,7 +37,9 @@
 
 <b>Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reinaldomml)](https://git.io/streak-stats)
+<b>🚀 Latest Project:</b> Roomfi at https://roomfi.me - an integrated data aggregation tool designed to assist students in The Netherlands navigate the rental market. It amalgamates data from three leading rental websites through Puppeteer/Crawlee and consolidates the results on a single page. Additionally, it categorizes rooms and dispatches the information to corresponding WhatsApp groups. This NodeJS, Express, and Whatsapp-web.js, with a frontend designed using Tailwind CSS, is hosted on Digital Ocean Ubuntu Server with PM2 and Nginx. Your visit and feedback are highly appreciated!
+
+![](./img/roomfi-cover-readme.png)
 
 <br />
 
