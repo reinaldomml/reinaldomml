@@ -35,10 +35,6 @@
 
 <b>Carrer Background:</b> I worked as a Digital marketing specialist with more than +10 years of experience in strategies for companies using Google Ads, Facebook Ads, WordPress, Power BI, GTM, SEO, and Inbound Marketing.
 
-<b>🚀 Latest Project:</b> Roomfi at https://roomfi.me - designed to assist students in the Netherlands in navigating the rental market. It collects data from 3 leading rental websites using Puppeteer/Crawlee. Additionally, it categorizes rooms and sends the information to respective WhatsApp groups. Built with Node.js, Express, and Whatsapp-web.js, with a frontend designed using Tailwind CSS, it is hosted on a Digital Ocean Ubuntu Server with PM2 and Nginx. Your visit and feedback are greatly appreciated!
-
-![](./img/roomfi-cover-readme.png)
-
 <br />
 
 <h2 align="center"> ⚙️ Languages and Tools</h2>
@@ -59,10 +55,11 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" style="vertical-align:top; margin:4px">
 </p>
 
-<p align="center" >
-  <!-- <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldomml&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Reinaldomml's github stats" /></a> -->
-  <a href="https://github.com/reinaldomml/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldomml&layout=compact&theme=graywhite&hide_border=true" /></a>
-</p>
+<br />
+
+<b>🚀 Latest Project:</b> Roomfi at https://roomfi.me - designed to assist students in the Netherlands in navigating the rental market. It collects data from 3 leading rental websites using Puppeteer/Crawlee. Additionally, it categorizes rooms and sends the information to respective WhatsApp groups. Built with Node.js, Express, and Whatsapp-web.js, with a frontend designed using Tailwind CSS, it is hosted on a Digital Ocean Ubuntu Server with PM2 and Nginx. Your visit and feedback are greatly appreciated!
+
+![](./img/roomfi-cover-readme.png)
 
 <!-- <h2 align="center"> 🚀 Main Repositories</h2>
 
