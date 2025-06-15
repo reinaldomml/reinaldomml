@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/reinaldomml/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&color=09f&labelColor=black&logo=linkedin&label=My profile on"></a>
+   <a href="https://www.linkedin.com/in/reinaldomml/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://x.com/reinaldomml"><img alt="X Follow" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&color=09f&labelColor=black&logo=x&label=@reinaldomml"></a>
  </p>
 
